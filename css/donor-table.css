@@ -1,0 +1,48 @@
+
+.price-bottom {
+    background: #EEF9FF !important;
+}
+
+.price-bottom h4 {
+    font-size: 23px;
+    line-height: 1.4;
+    letter-spacing: 1px;
+}
+
+.price-bottom i {
+    color: #ffffff;
+}
+
+.price-bottom a {
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+.price-bottom a:Hover {
+    color: #000;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+  }
+  
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #dee2e6;
+  }
+  
+  .table-bordered thead th,
+  .table-bordered thead td {
+    border-bottom-width: 2px;
+  }
+
+  
+.p-4 {
+    padding: 1.5rem !important;
+  }
